@@ -1,4 +1,4 @@
-./vendor/
-./assets/paper-plane.png
-./composer.lock
-./combined_cred.json
+assets/paper-plane.png
+composer.lock
+combined_cred.json
+vendor/
